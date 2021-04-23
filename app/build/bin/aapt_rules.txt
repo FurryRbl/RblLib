@@ -1,0 +1,3 @@
+# view AndroidManifest.xml #generated:22
+-keep class com.rbl.lib.build.restart_app.RebootApp { <init>(...); }
+
